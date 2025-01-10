@@ -6,6 +6,8 @@ Dashboard Screenshots
 
 ipl_matches dataset
 
+![11](https://github.com/user-attachments/assets/5262623a-c092-4cda-9dec-28fcaf70d215)
+![12](https://github.com/user-attachments/assets/392b64d5-fa77-4986-9110-0864b249245c)
 
 
 
