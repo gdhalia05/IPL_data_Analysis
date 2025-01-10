@@ -14,60 +14,41 @@ ipl_matches dataset
 
 Insights
 
-Most Winning Team did fielding first.
-Most common winning mode was wickets.
-Most matches were won on the grounds of Mumbai.
+1. Most Winning Team did fielding first.
+2. Most common winning mode was wickets.
+3. Most matches were won on the grounds of Mumbai.
+
 ipl_batting dataset
 
 
+![4](https://github.com/user-attachments/assets/35dad443-2c85-49de-9311-2465ea4e4bc2)
 
 
+![5](https://github.com/user-attachments/assets/8396f3bd-9b19-4d67-8eef-d76e8824c606)
 
+![6](https://github.com/user-attachments/assets/f9a006b6-e9bd-48c5-955d-7d0d69bd1e39)
 
+![7](https://github.com/user-attachments/assets/6b80f0be-faa5-4ecf-934d-d68e967256fc)
 
 
 
 Insights
 
-Total runs made through all season was 221.44K.
-Most bowlers took wicket by caught and out.
-Majority runs were made by batsmen who were normal players.
-Maximum Runs were made in the month of April.
-Majority 6's were by batsmen who got caught and out.
-Majority runs were by batsmen who got caught and out.
+1. Total runs made through all season was 221.44K.
+2. Most bowlers took wicket by caught and out.
+3. Majority runs were made by batsmen who were normal players.
+4. Maximum Runs were made in the month of April.
+5. Majority 6's were by batsmen who got caught and out.
+6. Majority runs were by batsmen who got caught and out.
+   
 ipl_deliveries dataset
 
 
+![8](https://github.com/user-attachments/assets/cd4ed900-63b8-4ba4-b9c9-15640d8b6c0d)
+
+![9](https://github.com/user-attachments/assets/5f032aec-8a3d-48a6-8a6a-197c9ef21a10)
+
+![10](https://github.com/user-attachments/assets/36b680af-d498-443d-9abd-acc05b98c35d)
 
 
 
-
-
-Insights
-
-Most common run extra type was WIDES.
-Most extra runs were given in the first over.
-AUK Pathan gave most extra runs.
-team_info dataset
-
-
-
-
-
-Insights
-
-Delhi Capitals won maximum matches.
-batsmen_info dataset
-
-
-
-
-
-
-
-Insights
-
-Maximum Runs were made by Virat Kohli.
-Maximum 4's by SK Raina.
-CH Gayle made most 100's.
-Correlation between R and B by SR.
